@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# CS499 Semester Project
 
-You can use the [editor on GitHub](https://github.com/Alex-Nelson/turbo-octo-happiness/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website is for a project from the CS499 - Network Analysis/Characterization course at
+Northern Arizona University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Desciption
 
-### Markdown
+### High-level Description
+The problem we are solving is creating a network of Let's Play channels on YouTube based on the number
+of videos they post for games to be a channel recommender for the Let's Play channels of simliar gaming
+content.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The problem that we are solving is important because the Let's Play community on YouTube has been growing
+as more people watch others play video games and smaller channels could possibly use this network to do
+collaborations so they can gain more subscribers or larger channels that are under parent channels can
+reach out to smaller channels to give them a jumpstart on their channel.
 
-```markdown
-Syntax highlighted code block
+### Technical Description
 
-# Header 1
-## Header 2
-### Header 3
+Please check back later.
 
-- Bulleted
-- List
+## Project Team
 
-1. Numbered
-2. List
+Please check back later.
 
-**Bold** and _Italic_ and `Code` text
+## Network Visualization
 
-[Link](url) and ![Image](src)
-```
+Please check back later.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Jupyter Notebook for Project
 
-### Jekyll Themes
+Please check back later.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alex-Nelson/turbo-octo-happiness/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Data Used
 
-### Support or Contact
+### Description
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We collected the data using the YouTube Data API to do search queries using fifty video games
+that have at least 10,000 videos containing footage of the game. Videos that contain the words
+_trailer_, _song_, _theme_, and _tutorial_ were excluded from our data becaue these videos do not
+pertain to what videos we are trying to collect for our project.
+
+### Link to Data
+
+Please check back later.
