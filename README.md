@@ -24,11 +24,13 @@ Please check back later.
 ## Project Team
 
 ![Image of Alex Nelson](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/avatar.jpg)
+
 Name: Alexanderia "Alex" Nelson
 
 Degree Program: B.S. in Computer Science
 
 ![Image of Hailey Ginther]()
+
 Name: Hailey Ginther
 
 Degree Program: B.S. in Computer Science
