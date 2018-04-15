@@ -23,7 +23,7 @@ Please check back later.
 
 ## Project Team
 
-![Image of Alex Nelson](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/slack%20image.gif)
+![Image of Alex Nelson](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/avatar.jpg)
 Name: Alexanderia "Alex" Nelson
 Degree Program: B.S. in Computer Science
 
@@ -75,13 +75,13 @@ Click the link to view the data files we used for this project.
 
 Each folder contains the data that was collected represents each game we performed a query on. The fields that we kept
 from the original JSON data were:
-    * Video ID
-        * This is the id that corresponds to the video. This value is unique for all videos.
-    * Channel ID
-        * This is the id that corresponds to the channel. Multiple videos can have the same channel id.
-    * Video Title
-        * The title assocaited with the video. This was used to help determine if the video qualified to be a part of
-          our data set.
-    * Channel Name
-        * The name of the channel that uploaded the video onto YouTube. This is used to help determine how many videos
-          a channel has for each game and the name of the node if it enters a game's network.
+- Video ID
+  - This is the id that corresponds to the video. This value is unique for all videos.
+- Channel ID
+  - This is the id that corresponds to the channel. Multiple videos can have the same channel id.
+- Video Title
+  - The title assocaited with the video. This was used to help determine if the video qualified to be a part of
+    our data set.
+- Channel Name
+  - The name of the channel that uploaded the video onto YouTube. This is used to help determine how many videos
+    a channel has for each game and the name of the node if it enters a game's network.
