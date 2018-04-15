@@ -25,17 +25,21 @@ Please check back later.
 
 ![Image of Alex Nelson](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/avatar.jpg)
 Name: Alexanderia "Alex" Nelson
+
 Degree Program: B.S. in Computer Science
 
 ![Image of Hailey Ginther]()
 Name: Hailey Ginther
+
 Degree Program: B.S. in Computer Science
 
 ## Network Visualization
 ![Image of Dark Souls Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/DarkSoulsNetwork.PNG)
+
 *Fig 1. Dark Souls Network*
 
 ![Image of Resident Evil VII Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/RE7Network.PNG)
+
 *Fig 2. Resident Evil VII Network*
 
 These two networks were generated with a sample of 20 nodes from the dictionary created from the CSV files. The networks
@@ -47,6 +51,7 @@ the dcitonary and the resulting graph would be unreadable.
 ## Jupyter Notebook for Project
 
 [Jupyter Notebook](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Notebook/CS499_Semester_Project.ipynb)
+
 Click the link to view the Jupyter Notebook for this project on the Github repository.
 
 ### Computational Envrionment
@@ -71,6 +76,7 @@ like the one used to create the sample networks above.
 ### Link to Data
 
 [Data](https://github.com/Alex-Nelson/turbo-octo-happiness/tree/master/Data)
+
 Click the link to view the data files we used for this project.
 
 Each folder contains the data that was collected represents each game we performed a query on. The fields that we kept
