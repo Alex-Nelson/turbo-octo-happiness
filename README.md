@@ -23,7 +23,7 @@ Please check back later.
 
 ## Project Team
 
-![Image of Alex Nelson](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/avatar.jpg)
+![Image of Alex Nelson](/Images/avatar.jpg)
 
 Name: Alexanderia "Alex" Nelson
 
@@ -36,11 +36,11 @@ Name: Hailey Ginther
 Degree Program: B.S. in Computer Science
 
 ## Network Visualization
-![Image of Dark Souls Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/DarkSoulsNetwork.PNG)
+![Image of Dark Souls Network](/Images/DarkSoulsNetwork.PNG)
 
 *Fig 1. Dark Souls Network*
 
-![Image of Resident Evil VII Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/RE7Network.PNG)
+![Image of Resident Evil VII Network](/Images/RE7Network.PNG)
 
 *Fig 2. Resident Evil VII Network*
 
