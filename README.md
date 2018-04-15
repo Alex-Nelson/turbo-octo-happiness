@@ -28,7 +28,7 @@ Please check back later.
 *Fig 1. Dark Souls Network*
 
 ![Image of Resident Evil VII Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/RE7Network.PNG)
-*Fig 1. Resident Evil VII Network*
+*Fig 2. Resident Evil VII Network*
 
 These two networks were generated with a sample of 20 nodes from the dictionary created from the CSV files.
 The nodes were randomly selected from the list of keys (channels) from the dictionary and are only added if
@@ -37,7 +37,7 @@ and the resulting graph would be unreadable.
 
 ## Jupyter Notebook for Project
 
-[link to Jupyter Notebook!](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Notebook/CS499_Semester_Project.ipynb)
+[Jupyter Notebook](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Notebook/CS499_Semester_Project.ipynb)
 Click the link to view the Jupyter Notebook for this project on the Github repository.
 
 ## Data Used
@@ -56,5 +56,5 @@ like the one used to create
 
 ### Link to Data
 
-[link to Data files!](https://github.com/Alex-Nelson/turbo-octo-happiness/tree/master/Data)
+[Data](https://github.com/Alex-Nelson/turbo-octo-happiness/tree/master/Data)
 Click the link to view the data files we used for this project.
