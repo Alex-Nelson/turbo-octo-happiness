@@ -24,12 +24,21 @@ Please check back later.
 Please check back later.
 
 ## Network Visualization
+![Image of Dark Souls Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/DarkSoulsNetwork.PNG)
+*Fig 1. Dark Souls Network*
 
-Please check back later.
+![Image of Resident Evil VII Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/RE7Network.PNG)
+*Fig 1. Resident Evil VII Network*
+
+These two networks were generated with a sample of 20 nodes from the dictionary created from the CSV files.
+The nodes were randomly selected from the list of keys (channels) from the dictionary and are only added if
+they have videos for the game. We chose to do 20 sample nodes becuase there are a lot of channels in the dcitonary
+and the resulting graph would be unreadable.
 
 ## Jupyter Notebook for Project
 
-Please check back later.
+[link to Jupyter Notebook!](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Notebook/CS499_Semester_Project.ipynb)
+Click the link to view the Jupyter Notebook for this project on the Github repository.
 
 ## Data Used
 
@@ -38,8 +47,14 @@ Please check back later.
 We collected the data using the YouTube Data API to do search queries using fifty video games
 that have at least 10,000 videos containing footage of the game. Videos that contain the words
 _trailer_, _song_, _theme_, and _tutorial_ were excluded from our data becaue these videos do not
-pertain to what videos we are trying to collect for our project.
+pertain to what videos we are trying to collect for our project. Due to the nature of the YouTube Data API,
+we could only receive a max of 50 results per page and had to save the JSON data into different CSV files.
+
+Once the query was fully completed, we formatted the CSV files to remove unnecssary columns for our data and
+combined each CSV file into one CSV file that our Jupter Notebook code filters through to create the dictionary,
+like the one used to create 
 
 ### Link to Data
 
-Please check back later.
+[link to Data files!](https://github.com/Alex-Nelson/turbo-octo-happiness/tree/master/Data)
+Click the link to view the data files we used for this project.
