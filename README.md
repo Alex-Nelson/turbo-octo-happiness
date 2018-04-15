@@ -3,6 +3,7 @@
 This website is for a project from the CS499 - Network Analysis/Characterization course at
 Northern Arizona University.
 
+
 ## Project Desciption
 
 ### High-level Description
@@ -19,9 +20,16 @@ reach out to smaller channels to give them a jumpstart on their channel.
 
 Please check back later.
 
+
 ## Project Team
 
-Please check back later.
+![Image of Alex Nelson](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/slack%20image.gif)
+Name: Alexanderia "Alex" Nelson
+Degree Program: B.S. in Computer Science
+
+![Image of Hailey Ginther]()
+Name: Hailey Ginther
+Degree Program: B.S. in Computer Science
 
 ## Network Visualization
 ![Image of Dark Souls Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/DarkSoulsNetwork.PNG)
@@ -30,15 +38,21 @@ Please check back later.
 ![Image of Resident Evil VII Network](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/RE7Network.PNG)
 *Fig 2. Resident Evil VII Network*
 
-These two networks were generated with a sample of 20 nodes from the dictionary created from the CSV files.
-The nodes were randomly selected from the list of keys (channels) from the dictionary and are only added if
-they have videos for the game. We chose to do 20 sample nodes becuase there are a lot of channels in the dcitonary
-and the resulting graph would be unreadable.
+These two networks were generated with a sample of 20 nodes from the dictionary created from the CSV files. The networks
+are ego networks for each game that was queried. The edges represent the channel has at least one video for the game and
+is allowed into the game's ego network.The nodes were randomly selected from the list of keys (channels) from the dictionary
+and are only added if they have videos for the game. We chose to do 20 sample nodes becuase there are a lot of channels in
+the dcitonary and the resulting graph would be unreadable.
 
 ## Jupyter Notebook for Project
 
 [Jupyter Notebook](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Notebook/CS499_Semester_Project.ipynb)
 Click the link to view the Jupyter Notebook for this project on the Github repository.
+
+### Computational Envrionment
+
+Please come back later.
+
 
 ## Data Used
 
@@ -52,9 +66,22 @@ we could only receive a max of 50 results per page and had to save the JSON data
 
 Once the query was fully completed, we formatted the CSV files to remove unnecssary columns for our data and
 combined each CSV file into one CSV file that our Jupter Notebook code filters through to create the dictionary,
-like the one used to create 
+like the one used to create the sample networks above.
 
 ### Link to Data
 
 [Data](https://github.com/Alex-Nelson/turbo-octo-happiness/tree/master/Data)
 Click the link to view the data files we used for this project.
+
+Each folder contains the data that was collected represents each game we performed a query on. The fields that we kept
+from the original JSON data were:
+    * Video ID
+        * This is the id that corresponds to the video. This value is unique for all videos.
+    * Channel ID
+        * This is the id that corresponds to the channel. Multiple videos can have the same channel id.
+    * Video Title
+        * The title assocaited with the video. This was used to help determine if the video qualified to be a part of
+          our data set.
+    * Channel Name
+        * The name of the channel that uploaded the video onto YouTube. This is used to help determine how many videos
+          a channel has for each game and the name of the node if it enters a game's network.
