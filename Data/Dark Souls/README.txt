@@ -1,0 +1,1 @@
+The data files for Let's Play videos for the game Dark Souls. The file, 'darksouls_v1.csv', is the formatted and combined version of all the data collected in thequeries and is used to create the network for this game.
