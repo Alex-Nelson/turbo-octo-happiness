@@ -18,8 +18,9 @@ reach out to smaller channels to give them a jumpstart on their channel.
 
 ### Technical Description
 
-Please check back later.
+To solve our problem, we collected data using the Google API to gather relevant youtube content on a selection of 50 games. We formatted the data in .csv files as decribed in the "Description" section below. Using the formatted files we created egocentric graphs for each of the 50 games. 
 
+Calculations on these egocentric graphs seperately and in comparison to each other are how we plan on proceeding.
 
 ## Project Team
 
