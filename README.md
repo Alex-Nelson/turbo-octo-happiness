@@ -31,6 +31,8 @@ Degree Program: B.S. in Computer Science
 
 Name: Hailey Ginther
 
+![Image](/Images/603.JPG)
+
 Degree Program: B.S. in Computer Science
 
 ## Network Visualization
