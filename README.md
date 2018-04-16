@@ -29,7 +29,7 @@ Name: Alexanderia "Alex" Nelson
 
 Degree Program: B.S. in Computer Science
 
-![Image of Hailey Ginther](/Images/603.jpg)
+![Image of Hailey Ginther](https://github.com/Alex-Nelson/turbo-octo-happiness/blob/master/Images/603.JPG)
 
 Name: Hailey Ginther
 
